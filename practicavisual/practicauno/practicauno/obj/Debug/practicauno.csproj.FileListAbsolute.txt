@@ -1,0 +1,5 @@
+C:\Users\Sala12\Documents\Practica1\practicavisual\practicauno\practicauno\bin\Debug\practicauno.exe.config
+C:\Users\Sala12\Documents\Practica1\practicavisual\practicauno\practicauno\bin\Debug\practicauno.exe
+C:\Users\Sala12\Documents\Practica1\practicavisual\practicauno\practicauno\bin\Debug\practicauno.pdb
+C:\Users\Sala12\Documents\Practica1\practicavisual\practicauno\practicauno\obj\Debug\practicauno.exe
+C:\Users\Sala12\Documents\Practica1\practicavisual\practicauno\practicauno\obj\Debug\practicauno.pdb

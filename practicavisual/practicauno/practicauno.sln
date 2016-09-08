@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicauno", "practicauno\practicauno.csproj", "{03777353-7693-418D-A6ED-D942C2DB32B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03777353-7693-418D-A6ED-D942C2DB32B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03777353-7693-418D-A6ED-D942C2DB32B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03777353-7693-418D-A6ED-D942C2DB32B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03777353-7693-418D-A6ED-D942C2DB32B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
